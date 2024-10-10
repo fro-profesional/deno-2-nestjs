@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "dev": "deno run -A --watch main.ts"
+  },
+  "imports": {
+    "@nestjs/common": "npm:@nestjs/common@^10.4.4",
+    "@nestjs/core": "npm:@nestjs/core@^10.4.4",
+    "@nestjs/platform-express": "npm:@nestjs/platform-express@^10.4.4"
+  },
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  }
+}
