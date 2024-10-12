@@ -1,6 +1,7 @@
 # deno-2-nestjs
 
-Nestjs app with Deno v2 based on this blog: https://uptownhr.com/blog/nest-on-deno/ I
+Nestjs app with Deno v2 based on this blog:
+https://uptownhr.com/blog/nest-on-deno/ I
 
 ## Getting Started
 
